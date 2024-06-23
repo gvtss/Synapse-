@@ -1,6 +1,6 @@
 --[[ Synapse XI (Synapse X Internal)
 	Version 1.0.0
-	Made by ippoxy.
+	Made by ippoyyx..
 ]]
 
 local SynapseXI = Instance.new("ScreenGui")
@@ -81,7 +81,7 @@ Editor.Size = UDim2.new(0, 632, 0, 259)
 Editor.ClearTextOnFocus = false
 Editor.Font = Enum.Font.Code
 Editor.MultiLine = true
-Editor.PlaceholderText = "-- made by ippoxy."
+Editor.PlaceholderText = "-- made by ippoyyx."
 Editor.Text = ""
 Editor.TextColor3 = Color3.fromRGB(255, 255, 255)
 Editor.TextSize = 14.000
